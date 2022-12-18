@@ -1,0 +1,1 @@
+# cloud latitude coding test
